@@ -1,6 +1,6 @@
 # SmallBookkeeping
 
-This project was generated with Angular version 4.
+This project was generated with Angular version 4. This is a project from the course "Angular4 from 0 to professional" , which includes the implementation of a small accounting project based on Angular4 + TypeScrypt + HTML5/CSS.
 
 ## Run application
 
